@@ -1,3 +1,3 @@
 ## Portfolio Preview
 
-![My Portfolio](portfolio-homepage.png)
+![My Portfolio](Website_UX.png)
